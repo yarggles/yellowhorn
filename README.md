@@ -1,0 +1,1 @@
+This project was learning to use 2 new packages, flexdashboard and highcharter, to understand basic concepts for interactive dashboards in R to use in future projects. Data and walk through by @miguelfzzz
